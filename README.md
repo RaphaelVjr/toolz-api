@@ -50,7 +50,7 @@ git checkout develop
 ```sh
 npm start
 ```
-Irá iniciar rodando na porta 3000, cheque se a mesma não está em uso.
+Irá iniciar rodando na porta 3005, cheque se a mesma não está em uso.
 
 
 ## Features futuras :rocket:
