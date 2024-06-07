@@ -3,9 +3,9 @@
 
 ![Stars](https://img.shields.io/github/stars/{username}/{repo-name}.svg)
 
-# Extração e Exibição de dados de Fatura de Luz :zap:
+# API de Login TOOLZ
 
-Projeto designado a extrair dados dos extratos das faturas de luz, organizá-los e aplicar regras para exibição dos mesmos em gráficos onde podemos distinguir a comparação dos valores (Python watchdog foi implementado para caso houvesse a implementação da feature de importação de arquivos, porém acabei focando nos critérios de aceite).
+API Simples para realização do teste técnico da Toolz.
 
 ## Critérios de aceite
 
@@ -42,6 +42,9 @@ Entre no diretório do projeto
 Instale as dependências! Dentro da pasta do projeto execute: 
 ```sh
 npm install
+```
+```sh
+git checkout develop
 ```
 
 ```sh
